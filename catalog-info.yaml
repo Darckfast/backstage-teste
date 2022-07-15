@@ -11,4 +11,4 @@ spec:
   owner: guests
   system: examples
   definition: 
-    $json: https://petstore.swagger.io/v2/swagger.json
+    $text: https://petstore.swagger.io/v2/swagger.json
